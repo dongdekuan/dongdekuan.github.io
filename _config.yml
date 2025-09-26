@@ -30,6 +30,18 @@ isso: ''
 # Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
 disqus: ''
 
+# Configuration settings cannot be changed for GitHub Pages sites
+lsi: false
+safe: true
+source: 'https://github.com/dongdekuan/ddk.github.io'
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rough
+
 permalink: /:year/:month/:title
 paginate: 3
 
