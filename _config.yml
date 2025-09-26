@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: My blog
-description: My homepage
+description: '<img src="/images/photo.jpg" alt="My photo" style="width:150px; border-radius: 50%;"><br>董得宽'
 title: "Dekuan Dong"
 email: "dkdong21@m.fudan.edu.cn"
 
