@@ -10,6 +10,13 @@ description: '
 title: "Dekuan Dong"
 email: "dkdong21@m.fudan.edu.cn"
 
+description_zh: '
+<div style="text-align:center;">
+  <img src="/images/photo.jpg" alt="My Photo" style="width:150px; margin-bottom:15px;">
+  <br>
+  <span style="font-size:18px; font-weight:bold;">董得宽</span>
+</div>'
+
 
 # url is currently only used only for the RSS feed in feed.xml
 url: "https://dongdekuan.github.io"
