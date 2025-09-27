@@ -50,3 +50,10 @@ body {
 .author a {
     color: #ee4444;
 }
+
+.navbar-nav > li > a.lang-switch {
+    font-weight: bold;
+    color: #ff5722;
+    font-size: 16px;
+    margin-right: 20px;
+}
