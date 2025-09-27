@@ -52,6 +52,7 @@ kramdown:
 
 permalink: /:year/:month/:title
 paginate: 3
+paginate_path: "/page:num/"
 
 highlighter: rouge
 markdown: kramdown
